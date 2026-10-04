@@ -47,7 +47,7 @@ Comprar um aparelho eletrónico caro para o usar poucas vezes (uma televisão pa
 
 ### 4.1 Metodologia
 
-Metodologia ágil, com entregas pequenas e frequentes todas as semanas, três milestones (E1: 02.10.2026; E2: 06.11.2026; E3: 11.12.2026) e apresentação na semana seguinte a cada entrega. Faz-se primeiro o essencial e só depois os extras. As tarefas são registadas no GitHub Projects com responsável e estado.
+Metodologia ágil, com entregas pequenas e frequentes todas as semanas, três milestones (E1: 04.10.2026; E2: 06.11.2026; E3: 11.12.2026) e apresentação na semana seguinte a cada entrega. Faz-se primeiro o essencial e só depois os extras. As tarefas são registadas no GitHub Projects com responsável e estado.
 
 ### 4.2 Ferramentas
 
