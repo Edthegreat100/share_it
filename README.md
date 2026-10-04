@@ -16,8 +16,7 @@ Universidade Europeia · IADE – Faculdade de Design, Tecnologia e Comunicaçã
 - [Memória descritiva](01_Memoria_Descritiva/memoria.md)
 - [Identificação do projeto](00_Identificacao/info.md)
 - [Mockups no Figma] https://www.figma.com/design/UfhkEFMtLLWcQRDhwDdaOt/PBL?node-id=0-1&t=v4mCDtvceT68OGdS-1
-- [Gestão do projeto (GitHub Projects)] https://github.com/Edthegreat100/share_it
-
+- [Gestão do projeto (GitHub Projects)] 
 ## Sobre a app
 
 O Share IT permite alugar, por poucos dias, aparelhos eletrónicos de outros utilizadores (consolas, televisões, iPads, câmaras, projetores, colunas). Quem tem um aparelho parado ganha algum dinheiro; quem precisa dele só por um fim de semana paga apenas esses dias.
